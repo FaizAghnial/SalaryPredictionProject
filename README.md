@@ -1,2 +1,2 @@
 # SalaryPredictionProject
-A project to make a prediction using Phython
+A project to make a prediction using Python
